@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+padding: 0
+}
+
+
+.foto{
+    background-image:url(/assets/images/honolulu.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.pantalla__dividida{
+    height:50vh;   
+}
+
+.ancho{
+    width: 100vw;
+}
+
+.espacio{
+    margin-top:40px;
+}
+
+
+.ancho-medio{
+    width:50vw;
+}
+
+.footer-ul{
+display: flex;
+justify-content: space-evenly
+}
+
+
+.alto{
+    height:100vh;
+}
+
+
+.filter{
+    -webkit-filter: brightness(60%);
+    filter: brightness(60%);
+}
+.no-filter{
+    -webkit-filter: brightness(100%);
+    filter: brightness(100%);
+}
+
+.bg-nav_footer{
+    background-color: rgb(65, 64, 64);
+}
+
+.tag:link{
+    text-decoration: none;
+}
+.tag:visited{
+    text-decoration: none;
+}
+
+.tag:hover{
+    text-decoration:none;
+    color: #dedede;
+}
+
+.tag:active{
+    text-decoration: none;
+}
+
+.colorTag{
+    color: #82817f;
+}
+
+
+.conf_color{
+    color: #dedede; 
+}
+
