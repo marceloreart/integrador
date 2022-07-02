@@ -10,7 +10,7 @@ padding: 0
 
 
 .foto{
-    background-image:url(/assets/images/honolulu.jpg);
+    background-image:url(/public/assets/images/honolulu.jpg);
     background-repeat:no-repeat;
     background-size: cover;
 }
@@ -79,5 +79,13 @@ justify-content: space-evenly
 
 .conf_color{
     color: #dedede; 
+}
+
+.button{
+    width: 100%;
+}
+
+.cuadro{
+    width:32.5%;
 }
 
