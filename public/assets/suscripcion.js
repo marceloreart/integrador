@@ -94,6 +94,7 @@ function valor_total_ticket() {
   }
 
   //INSERTO EL VALOR EN EL HTML
+
   total_pago.innerHTML = valorTotalTicket;
   total_pago.focus();
 }
